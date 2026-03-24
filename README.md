@@ -1,17 +1,25 @@
 # Talent-Acquisition-System - AI-powered Recruitment Platform
 
-Talent-Acquisition-System is a full-stack AI-powered recruitment platform designed to streamline the entire hiring process. The platform enables organizations to create and manage job postings, track candidates through various hiring stages, conduct application screening with custom questions, schedule interviews, and analyze hiring metrics. Built with modern web technologies, it features secure user authentication and integrates AI capabilities for generating interview questions, making recruitment more efficient and data-driven.
+Talent-Acquisition-System is an advanced AI-driven recruitment platform designed to optimize and automate the complete hiring lifecycle. It empowers HR teams and organizations to post job openings, manage applicants, evaluate candidate responses, schedule interviews, and monitor performance through insightful analytics.
+The platform integrates secure authentication, smart workflows, and AI-powered tools that generate job descriptions, interview questions, and candidate assessments—making hiring faster, smarter, and more efficient.
 
-𝗠𝗮𝗶𝗻 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻 𝗣𝗼𝗶𝗻𝘁𝘀
-
-1. 𝐉𝐨𝐛 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭: Create, edit, and manage job postings
-2. 𝐂𝐚𝐧𝐝𝐢𝐝𝐚𝐭𝐞 𝐏𝐢𝐩𝐞𝐥𝐢𝐧𝐞: Track candidates through hiring stages
-3. 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐒𝐲𝐬𝐭𝐞𝐦: Custom application forms with screening questions
-4. 𝐈𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰 𝐒𝐜𝐡𝐞𝐝𝐮𝐥𝐢𝐧𝐠: Schedule and manage interviews
-5. 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝: Track hiring metrics and performance
-6. 𝐔𝐬𝐞𝐫 𝐀𝐮𝐭𝐡𝐞𝐧𝐭𝐢𝐜𝐚𝐭𝐢𝐨𝐧: Secure login and registration system
-7. 𝐀𝐈-𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐉𝐨𝐛 𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧: Generate JD and  other requirement according to Job role using AI
-7. 𝐀𝐈-𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬: Generate custom interview questions using AI
+Key Features
+**Job Posting & Management**
+Create, update, and organize job openings with role-specific criteria and structured details.
+**Candidate Tracking Pipeline**
+Seamlessly track applicants through multiple hiring stages (Applied → Screening → Shortlisted → Interview → Hired).
+**Custom Application Builder**
+Add tailored screening questions to filter applicants based on role-specific requirements.
+**Interview Coordination**
+Schedule, manage, and update interviews, with reminders and stage-based tracking.
+**Analytics & Reporting Dashboard**
+View hiring statistics, applicant flow, time-to-hire, and performance metrics.
+**Secure User Access & Authentication**
+Includes encrypted login, registration, and role-based permissions.
+**AI-Generated Job Descriptions**
+Automatically generate detailed job descriptions and role expectations using AI.
+**AI-Generated Interview Questions**
+Produce customized interview questions tailored to the job title and skill set.
 
 
 ## Tech Stack
